@@ -1,4 +1,5 @@
 # NFT Marketplace 
+<img src="https://github.com/MattWong-ca/nft-marketplace/blob/main/Marketplace%20Screenshot.png">
 Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
 Make sure you are in the source file. 
 
