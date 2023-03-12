@@ -1,4 +1,5 @@
-# nft-marketplace-starter-kit
+# NFT Marketplace 
+
 Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
 Make sure you are in the source file. 
 
@@ -15,5 +16,6 @@ For truffle tests and console please consult the official Truffle documentaion f
 Follow the course module on Udemy to build this project from the ground up:
 https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/
 
-Good luck and have fun!
-
+# Notes
+- Make sure Ganache is open when running `truffle compile` and `truffle migrate --reset`
+- Run `npm run start` to see it in localhost, make sure MetaMask is connected and the Ganache network is selected
