@@ -22,6 +22,7 @@ https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-exp
 
 # Sample File Locations
 <img src="https://github.com/MattWong-ca/nft-marketplace/blob/main/ConsoleScreenshot.png">
+
 - Each new file location is added to an array (seen in Console) and minted as NFTs
     - K1: https://i.ibb.co/YQgrPDS/k1.png
     - K2: https://i.ibb.co/28FqzMw/k2.png
